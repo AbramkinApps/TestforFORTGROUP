@@ -1,0 +1,82 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+  <LinearLayout
+      android:orientation="vertical"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:padding="16dp">
+
+    <TextView
+        android:id="@+id/txView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#303030"
+        android:textSize="20sp"
+        tools:text="text"/>
+
+    <TextView
+        android:id="@+id/txView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:textColor="#303030"
+        android:textSize="16sp"
+        tools:text="text"></TextView>
+
+    <TextView
+        android:id="@+id/txView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:textColor="#303030"
+        android:textSize="16sp"
+        tools:text="text"></TextView>
+
+    <TextView
+        android:id="@+id/txView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:textColor="#303030"
+        android:textSize="16sp"
+        tools:text="text"></TextView>
+    <TextView
+        android:id="@+id/txView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:textColor="#303030"
+        android:textSize="16sp"
+        tools:text="text"></TextView>
+
+    <TextView
+        android:id="@+id/txView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:textColor="#303030"
+        android:textSize="16sp"
+        tools:text="text"></TextView>
+    <TextView
+        android:id="@+id/txView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:textColor="#303030"
+        android:textSize="16sp"
+        tools:text="text"></TextView>
+
+
+  </LinearLayout>
+
+</ScrollView>
